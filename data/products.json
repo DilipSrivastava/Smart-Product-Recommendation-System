@@ -1,0 +1,228 @@
+[
+  {
+    "id": "P001",
+    "name": "Dell Inspiron Laptop",
+    "category": "Electronics",
+    "price": 65000,
+    "description": "A powerful laptop for software development, programming, and multitasking.",
+    "features": ["16GB RAM", "512GB SSD", "Intel Core i5"],
+    "target_audience": "Software developers and students"
+  },
+  {
+    "id": "P002",
+    "name": "Logitech Wireless Mouse",
+    "category": "Accessories",
+    "price": 1500,
+    "description": "An ergonomic wireless mouse for comfortable everyday office work.",
+    "features": ["Wireless", "Ergonomic design", "Long battery life"],
+    "target_audience": "Office professionals and students"
+  },
+  {
+    "id": "P003",
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 3500,
+    "description": "A mechanical keyboard designed for programmers who type for long hours.",
+    "features": ["Tactile keys", "Durable switches", "Comfortable typing"],
+    "target_audience": "Programmers and gamers"
+  },
+  {
+    "id": "P004",
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 8000,
+    "description": "Wireless headphones with noise cancellation for focused work and online meetings.",
+    "features": ["Noise cancellation", "Wireless connectivity", "Built-in microphone"],
+    "target_audience": "Remote workers and professionals"
+  },
+  {
+    "id": "P005",
+    "name": "Python Programming Book",
+    "category": "Books",
+    "price": 800,
+    "description": "A beginner-friendly guide to Python programming, covering fundamentals and practical examples.",
+    "features": ["Beginner friendly", "Hands-on examples", "Programming fundamentals"],
+    "target_audience": "Beginners and aspiring developers"
+  },
+  {
+    "id": "P006",
+    "name": "Machine Learning Handbook",
+    "category": "Books",
+    "price": 1200,
+    "description": "A practical introduction to machine learning algorithms, model training, and evaluation.",
+    "features": ["ML algorithms", "Practical examples", "Model evaluation"],
+    "target_audience": "Data science learners and AI engineers"
+  },
+  {
+    "id": "P007",
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 2200,
+    "description": "A compact USB-C hub that expands laptop connectivity for monitors and peripherals.",
+    "features": ["HDMI output", "USB ports", "Compact design"],
+    "target_audience": "Laptop users and professionals"
+  },
+  {
+    "id": "P008",
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 5000,
+    "description": "A fitness watch that tracks daily activity, workouts, and sleep patterns.",
+    "features": ["Activity tracking", "Heart rate monitoring", "Sleep tracking"],
+    "target_audience": "Fitness enthusiasts and active users"
+  },
+  {
+    "id": "P021",
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "description": "Laptop for programming, office work, and everyday multitasking.",
+    "features": ["16GB RAM", "512GB SSD", "Intel Core i5", "Full HD display"],
+    "target_audience": "Software developers, students, and professionals"
+  },
+  {
+    "id": "P022",
+    "name": "ASUS Vivobook 15 Laptop",
+    "category": "Electronics",
+    "price": 58000,
+    "description": "Versatile laptop suitable for coding, productivity, and daily computing.",
+    "features": ["16GB RAM", "512GB SSD", "Intel Core i5", "15.6-inch display"],
+    "target_audience": "Programmers, students, and office professionals"
+  },
+  {
+    "id": "P023",
+    "name": "Acer Aspire 5 Laptop",
+    "category": "Electronics",
+    "price": 52000,
+    "description": "Everyday productivity laptop for programming, browsing, and multitasking.",
+    "features": ["16GB RAM", "512GB SSD", "Intel Core i5", "Full HD display"],
+    "target_audience": "Students, developers, and home users"
+  },
+  {
+    "id": "P024",
+    "name": "HP 15s Laptop",
+    "category": "Electronics",
+    "price": 48000,
+    "description": "General-purpose laptop for office tasks, learning, and software development.",
+    "features": ["8GB RAM", "512GB SSD", "Intel Core i5", "Full HD display"],
+    "target_audience": "Students, professionals, and beginner programmers"
+  },
+  {
+    "id": "P025",
+    "name": "Apple MacBook Air",
+    "category": "Electronics",
+    "price": 89900,
+    "description": "Lightweight laptop for development, productivity, and creative workflows.",
+    "features": ["Apple silicon", "8GB unified memory", "256GB SSD", "Retina display"],
+    "target_audience": "Developers, professionals, and creators"
+  },
+  {
+    "id": "P009",
+    "name": "HP Pavilion Laptop",
+    "category": "Electronics",
+    "price": 72000,
+    "description": "A versatile laptop for software development, data analysis, and everyday productivity.",
+    "features": ["16GB RAM", "1TB SSD", "Intel Core i7"],
+    "target_audience": "Developers and data analysts"
+    },
+    {
+    "id": "P010",
+    "name": "Samsung 27-inch Monitor",
+    "category": "Electronics",
+    "price": 18000,
+    "description": "A full HD monitor suitable for coding, office work, and multitasking.",
+    "features": ["27-inch display", "Full HD", "Eye comfort mode"],
+    "target_audience": "Developers and office professionals"
+    },
+    {
+    "id": "P011",
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 12000,
+    "description": "An adjustable chair designed to support comfortable posture during long working hours.",
+    "features": ["Lumbar support", "Adjustable height", "Breathable mesh"],
+    "target_audience": "Remote workers and office professionals"
+    },
+    {
+    "id": "P012",
+    "name": "Laptop Cooling Pad",
+    "category": "Accessories",
+    "price": 1800,
+    "description": "A laptop cooling pad that improves airflow during intensive computing tasks.",
+    "features": ["Cooling fans", "Adjustable stand", "USB powered"],
+    "target_audience": "Gamers and developers"
+    },
+    {
+    "id": "P013",
+    "name": "Java Programming Guide",
+    "category": "Books",
+    "price": 950,
+    "description": "A practical guide to Java programming, object-oriented design, collections, and exception handling.",
+    "features": ["OOP concepts", "Code examples", "Core Java"],
+    "target_audience": "Java developers and students"
+    },
+    {
+    "id": "P014",
+    "name": "Deep Learning with Python",
+    "category": "Books",
+    "price": 1600,
+    "description": "A hands-on introduction to neural networks, deep learning architectures, and practical AI projects.",
+    "features": ["Neural networks", "Deep learning", "Practical projects"],
+    "target_audience": "AI engineers and data scientists"
+    },
+    {
+    "id": "P015",
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "price": 8500,
+    "description": "A portable solid-state drive for fast backups, datasets, and project files.",
+    "features": ["1TB capacity", "High-speed transfer", "Portable design"],
+    "target_audience": "Developers and content creators"
+    },
+    {
+    "id": "P016",
+    "name": "1080p Webcam",
+    "category": "Accessories",
+    "price": 3200,
+    "description": "A high-definition webcam for video meetings, online classes, and remote collaboration.",
+    "features": ["1080p video", "Built-in microphone", "Plug and play"],
+    "target_audience": "Remote workers and educators"
+    },
+    {
+    "id": "P017",
+    "name": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 2500,
+    "description": "A high-capacity power bank for charging phones and other compatible devices while travelling.",
+    "features": ["20000mAh capacity", "Fast charging", "Multiple ports"],
+    "target_audience": "Travellers and professionals"
+    },
+    {
+    "id": "P018",
+    "name": "Smartphone 5G",
+    "category": "Electronics",
+    "price": 28000,
+    "description": "A 5G smartphone for communication, productivity, photography, and everyday applications.",
+    "features": ["5G connectivity", "128GB storage", "High-resolution camera"],
+    "target_audience": "Students and professionals"
+    },
+    {
+    "id": "P019",
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2800,
+    "description": "A compact wireless speaker for music, podcasts, and entertainment at home or outdoors.",
+    "features": ["Bluetooth connectivity", "Portable design", "Rechargeable battery"],
+    "target_audience": "Music lovers and travellers"
+    },
+    {
+    "id": "P020",
+    "name": "AI and Machine Learning Course",
+    "category": "Online Courses",
+    "price": 2999,
+    "description": "An introductory course covering Python, machine learning concepts, model evaluation, and AI projects.",
+    "features": ["Python basics", "ML algorithms", "Hands-on projects"],
+    "target_audience": "Software engineers transitioning into AI"
+    }
+  
+]
